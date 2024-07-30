@@ -11,8 +11,12 @@
             "id": "e85638fcd2d3f4e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1주차.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ],
@@ -146,14 +154,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-rich-links:Rich Links": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e85638fcd2d3f4e4",
+  "floating": {
+    "id": "6078f1662d3b2234",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d3577a0b913ca074",
+        "type": "window",
+        "children": [
+          {
+            "id": "8dfcfa0c75e84bc7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cf6c26999e3fa239",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 892,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cf6c26999e3fa239",
   "lastOpenFiles": [
+    "주차별 공부 계획.md",
+    "4주차.md",
+    "3주차.md",
+    "1주차.md",
+    "2주차.md",
+    "index.md",
     "Tags",
     "test.md",
-    "index.md",
     "README.md",
     "이름 없는 보드.md",
     "이름 없는 보드 1.md",
@@ -166,7 +218,6 @@
     "docs/lib/scripts/graph-data.js",
     "docs/lib/scripts/minisearch.js",
     "docs/lib/scripts/pixi.js",
-    "docs/lib/scripts/tinycolor.js",
     "docs/lib/media/favicon.png",
     "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
     "docs/lib/media/874d8b8e340f75575caa.svg",
