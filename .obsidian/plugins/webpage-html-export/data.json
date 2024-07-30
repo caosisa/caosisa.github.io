@@ -45,6 +45,13 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\\\Users\\wildpants\\Desktop\\caosisa.github.io\\docs",
   "filesToExport": [
-    []
+    [
+      "1주차.md",
+      "2주차.md",
+      "3주차.md",
+      "4주차.md",
+      "주차별 공부 계획.md",
+      "index.md"
+    ]
   ]
 }
